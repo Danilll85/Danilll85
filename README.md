@@ -1,8 +1,6 @@
-Hello
+My Programming and Markup Languages
 
-👨‍💻 Programming and Markup Languages
-
-C++ C# HTML CSS JS TS 
+JS TS HTML/CSS C++ C# Python 
 
 <!---
 Danilll85/Danilll85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
